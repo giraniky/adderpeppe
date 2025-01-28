@@ -1,0 +1,2366 @@
+[
+    {
+        "account": "+14086045337",
+        "user_id": "1063307194",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrei",
+        "last_name": "Burlacu",
+        "username": "andrei_burlacu",
+        "status": "userStatusOffline",
+        "was_online": "1672831914"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "425770073",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alfa7856",
+        "last_name": "",
+        "username": "alfa565",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "209335667",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alice",
+        "last_name": "Marziali",
+        "username": "Arda167",
+        "status": "userStatusLastWeek",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "441351433",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alem",
+        "last_name": "",
+        "username": "C4rum",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2016306933",
+        "type": "user",
+        "role": "user",
+        "first_name": "Aniello",
+        "last_name": "Tagliaferro",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1668791409"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5348847160",
+        "type": "user",
+        "role": "user",
+        "first_name": "Sora",
+        "last_name": "",
+        "username": "amzrecensionii",
+        "status": "userStatusOnline",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "605387444",
+        "type": "user",
+        "role": "user",
+        "first_name": "Adelina",
+        "last_name": "Khafizova",
+        "username": "adekha",
+        "status": "userStatusOffline",
+        "was_online": "1672768335"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5432491591",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Verena Andr\u00e9\"",
+        "last_name": "",
+        "username": "Verana086",
+        "status": "userStatusOffline",
+        "was_online": "1672832709"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1117540899",
+        "type": "user",
+        "role": "user",
+        "first_name": "angelo",
+        "last_name": "sturiale",
+        "username": "Stuange",
+        "status": "userStatusOffline",
+        "was_online": "1672864579"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5577944555",
+        "type": "user",
+        "role": "user",
+        "first_name": "Annie",
+        "last_name": "Suson",
+        "username": "AnnieSuson",
+        "status": "userStatusOffline",
+        "was_online": "1669712481"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2128525388",
+        "type": "bot",
+        "role": "user",
+        "first_name": "\"PRODOTTI GRATUITI amazon\ud83d\udcbb\"",
+        "last_name": "",
+        "username": "prodottigratuitiamazonit_bot",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5118042451",
+        "type": "bot",
+        "role": "user",
+        "first_name": "ACostoZero",
+        "last_name": "",
+        "username": "ACostoZeroBot",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5176526559",
+        "type": "bot",
+        "role": "user",
+        "first_name": "\"Gratis Amazon\"",
+        "last_name": "",
+        "username": "Gratis_Amazon_Bot",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5237662784",
+        "type": "bot",
+        "role": "user",
+        "first_name": "\"AMZ Recensioni e regali\"",
+        "last_name": "",
+        "username": "AMZRecenzionieregali_bot",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "584659416",
+        "type": "user",
+        "role": "user",
+        "first_name": "alessio",
+        "last_name": "asdrubale",
+        "username": "akesziii",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "168419495",
+        "type": "user",
+        "role": "user",
+        "first_name": "Patrizia",
+        "last_name": "Angi",
+        "username": "PattyAngi",
+        "status": "userStatusOffline",
+        "was_online": "1672841570"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1498512535",
+        "type": "user",
+        "role": "user",
+        "first_name": "AlchyCrypto",
+        "last_name": "",
+        "username": "AlchyCrypto",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5119703575",
+        "type": "bot",
+        "role": "user",
+        "first_name": "ac_indaco_rev_bot",
+        "last_name": "",
+        "username": "ac_indaco_rev_bot",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5247238525",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ardesy",
+        "last_name": "",
+        "username": "Ardesy",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2092352664",
+        "type": "user",
+        "role": "user",
+        "first_name": "Arturo",
+        "last_name": "Vidal",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1671881621"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2124470857",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "Parisi",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1671963606"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2126623656",
+        "type": "user",
+        "role": "user",
+        "first_name": "Bruno",
+        "last_name": "Ascione",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1671872971"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2145104876",
+        "type": "user",
+        "role": "user",
+        "first_name": "Pasquale",
+        "last_name": "Affinito",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1671613149"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5044927756",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessandro",
+        "last_name": "\"Del Piero\"",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1671943210"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "364259937",
+        "type": "user",
+        "role": "user",
+        "first_name": "Angelo",
+        "last_name": "Negan",
+        "username": "Negan1980angelo",
+        "status": "userStatusOffline",
+        "was_online": "1672824552"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1168526553",
+        "type": "user",
+        "role": "user",
+        "first_name": "alfredo",
+        "last_name": "",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1668346336"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1317562589",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessia",
+        "last_name": "Nanocchio",
+        "username": "Alenan00",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "427388830",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ale",
+        "last_name": "Dei",
+        "username": "Alemau5",
+        "status": "userStatusOffline",
+        "was_online": "1672823201"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "574336592",
+        "type": "user",
+        "role": "user",
+        "first_name": "Vicki",
+        "last_name": "Avola",
+        "username": "vickiavola",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2070155518",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ange",
+        "last_name": "More",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1672824840"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "860856525",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessandro",
+        "last_name": "Bus",
+        "username": "Alebus9987",
+        "status": "userStatusOffline",
+        "was_online": "1672865691"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1536910802",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"A te\"",
+        "last_name": "\"e famiglia\"",
+        "username": "passer25",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "5000121821",
+        "type": "user",
+        "role": "user",
+        "first_name": "Anita",
+        "last_name": "Blessed",
+        "username": "Anita2101",
+        "status": "userStatusOffline",
+        "was_online": "1671450222"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1531024456",
+        "type": "bot",
+        "role": "user",
+        "first_name": "Autobot",
+        "last_name": "",
+        "username": "Autojj_bot",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "133749443",
+        "type": "user",
+        "role": "user",
+        "first_name": "Aki",
+        "last_name": "",
+        "username": "Aki0201",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1421301932",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Anna Bovenga\"",
+        "last_name": "",
+        "username": "annab250801",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1269663870",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alfonso",
+        "last_name": "",
+        "username": "",
+        "status": "userStatusLastWeek",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "984519397",
+        "type": "user",
+        "role": "user",
+        "first_name": "...",
+        "last_name": "",
+        "username": "Andysco06",
+        "status": "userStatusOffline",
+        "was_online": "1672780791"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1655885234",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Nero d'avola\"",
+        "last_name": "",
+        "username": "amaranto34",
+        "status": "userStatusOffline",
+        "was_online": "1662991028"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "297191397",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "Sorrentino",
+        "username": "AntonioSorrentino",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2041943130",
+        "type": "user",
+        "role": "user",
+        "first_name": "D'Artagnan",
+        "last_name": "",
+        "username": "dartagnanymx",
+        "status": "userStatusOffline",
+        "was_online": "1672504596"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2118991607",
+        "type": "user",
+        "role": "user",
+        "first_name": "FedeSeth",
+        "last_name": "",
+        "username": "Anomius6",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "730598841",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Antonio (BlackWolf88)\"",
+        "last_name": "",
+        "username": "BlackWolf880",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1669767412",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alice",
+        "last_name": "",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1672316645"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "911679783",
+        "type": "user",
+        "role": "user",
+        "first_name": "Aisha",
+        "last_name": "",
+        "username": "mar_16_ay",
+        "status": "userStatusOffline",
+        "was_online": "1672775829"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2045468668",
+        "type": "user",
+        "role": "user",
+        "first_name": "andrea",
+        "last_name": "",
+        "username": "andrea1932",
+        "status": "userStatusOffline",
+        "was_online": "1665567393"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "504136561",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andiz",
+        "last_name": "",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1672795599"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2076834443",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"An m E Li\"",
+        "last_name": "",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1665148453"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2028871762",
+        "type": "user",
+        "role": "user",
+        "first_name": "Sreiguo",
+        "last_name": "Alin",
+        "username": "Sergioalin",
+        "status": "userStatusOffline",
+        "was_online": "1657712631"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1305988674",
+        "type": "user",
+        "role": "user",
+        "first_name": "Albert",
+        "last_name": "",
+        "username": "AlbErTo_343",
+        "status": "userStatusOffline",
+        "was_online": "1672868174"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "2011775413",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "Vitale",
+        "username": "Travasiello",
+        "status": "userStatusOffline",
+        "was_online": "1672782013"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "608363204",
+        "type": "user",
+        "role": "user",
+        "first_name": "alex",
+        "last_name": "",
+        "username": "ale1230",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "989670478",
+        "type": "user",
+        "role": "user",
+        "first_name": "Valentina",
+        "last_name": "Alpa",
+        "username": "valealpa",
+        "status": "userStatusOffline",
+        "was_online": "1672831603"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "325956269",
+        "type": "user",
+        "role": "user",
+        "first_name": "Aristide.F",
+        "last_name": "",
+        "username": "Ari5678",
+        "status": "userStatusOffline",
+        "was_online": "1672771656"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "594227683",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ciro",
+        "last_name": "A",
+        "username": "Ciroa",
+        "status": "userStatusOffline",
+        "was_online": "1672864520"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "660205841",
+        "type": "user",
+        "role": "user",
+        "first_name": "\u2022andrew\ud83d\udda4\u2022",
+        "last_name": "",
+        "username": "cercatemiinchat",
+        "status": "userStatusOffline",
+        "was_online": "1672847213"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "672146191",
+        "type": "user",
+        "role": "user",
+        "first_name": "Erika",
+        "last_name": "Spina",
+        "username": "Akire95",
+        "status": "userStatusOffline",
+        "was_online": "1663756940"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "56942787",
+        "type": "user",
+        "role": "user",
+        "first_name": "Emanuele",
+        "last_name": "D'avanzo",
+        "username": "Pantumanu97",
+        "status": "userStatusOffline",
+        "was_online": "1672842078"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "434546881",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ao",
+        "last_name": "",
+        "username": "fonzofoo",
+        "status": "userStatusOffline",
+        "was_online": "1672661672"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "504709708",
+        "type": "user",
+        "role": "user",
+        "first_name": "Dom",
+        "last_name": "Ferr",
+        "username": "Avvocs",
+        "status": "userStatusOffline",
+        "was_online": "1672843237"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1040115104",
+        "type": "user",
+        "role": "user",
+        "first_name": "\ud835\uddd4\ud835\uddf9\ud835\uddf2\ud835\ude05\ud835\uddea\ud835\uddf6\ud835\uddf9\ud835\uddf9",
+        "last_name": "\"\/ @fortlogshq\"",
+        "username": "alexwillro",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1712525530",
+        "type": "user",
+        "role": "user",
+        "first_name": "Angela",
+        "last_name": "Farruggia",
+        "username": "angela_farruggia",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "31580869",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "D'Ingiandi",
+        "username": "daidardi",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "341388287",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "Infante",
+        "username": "lavatoconperlana",
+        "status": "userStatusOffline",
+        "was_online": "1672857684"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "478320737",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "Interista",
+        "username": "Ps4pro1985",
+        "status": "userStatusOffline",
+        "was_online": "1672833073"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "805245999",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Shop_account_ita1 +8 rep \ufe0f\"",
+        "last_name": "",
+        "username": "Shop_bundle_1ita",
+        "status": "userStatusOffline",
+        "was_online": "1672870845"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1113830278",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andre",
+        "last_name": "",
+        "username": "IlMuflone",
+        "status": "userStatusOffline",
+        "was_online": "1672864573"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1376516307",
+        "type": "user",
+        "role": "user",
+        "first_name": "\u274cloconocho",
+        "last_name": "Italia04",
+        "username": "accountItalia04",
+        "status": "userStatusOffline",
+        "was_online": "1671142626"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "120792875",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alton",
+        "last_name": "",
+        "username": "LonelyPlanet4",
+        "status": "userStatusOffline",
+        "was_online": "1672844552"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "149218464",
+        "type": "user",
+        "role": "user",
+        "first_name": "andrea",
+        "last_name": "",
+        "username": "Libanese92",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "409266034",
+        "type": "user",
+        "role": "user",
+        "first_name": "gianni",
+        "last_name": "allemanni",
+        "username": "legione1973",
+        "status": "userStatusOffline",
+        "was_online": "1672659577"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "413930563",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "Tutt'iss\ud83e\udd8b",
+        "username": "AndreaTuttiss",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "421769245",
+        "type": "user",
+        "role": "user",
+        "first_name": "Luca",
+        "last_name": "",
+        "username": "Artluc98",
+        "status": "userStatusOffline",
+        "was_online": "1672859210"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "500676010",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Antonio 9393\"",
+        "last_name": "",
+        "username": "ciruzzo7393",
+        "status": "userStatusOffline",
+        "was_online": "1672870714"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "653885113",
+        "type": "user",
+        "role": "user",
+        "first_name": "andrey",
+        "last_name": "simplay",
+        "username": "lordandreiy",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "934020291",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Anna Maria\"",
+        "last_name": "Innocenzi",
+        "username": "Elettrainno",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1104465733",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alahe",
+        "last_name": "Islam",
+        "username": "alahe8000",
+        "status": "userStatusOffline",
+        "was_online": "1672823459"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1113267826",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonella",
+        "last_name": "Ielati",
+        "username": "costemi",
+        "status": "userStatusOffline",
+        "was_online": "1672596601"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "517630904",
+        "type": "user",
+        "role": "user",
+        "first_name": "Aaaaaaa",
+        "last_name": "",
+        "username": "bvccdgb",
+        "status": "userStatusOffline",
+        "was_online": "1672584879"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "614251982",
+        "type": "user",
+        "role": "user",
+        "first_name": "Anfame",
+        "last_name": "",
+        "username": "Nicolaez0",
+        "status": "userStatusOffline",
+        "was_online": "1672868915"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "742481549",
+        "type": "user",
+        "role": "user",
+        "first_name": "Paolo",
+        "last_name": "Armillotta",
+        "username": "paoloarmillotta",
+        "status": "userStatusOffline",
+        "was_online": "1671627675"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "914548298",
+        "type": "user",
+        "role": "user",
+        "first_name": "Neville",
+        "last_name": "Andrade",
+        "username": "Scorpioneville",
+        "status": "userStatusOffline",
+        "was_online": "1672626448"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "998285468",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"bicarbonato di ammonio\ud83c\udf43\"",
+        "last_name": "",
+        "username": "NH4HCO3",
+        "status": "userStatusOffline",
+        "was_online": "1672701986"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "22916005",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrew",
+        "last_name": "Ri\u00f9",
+        "username": "steveinstein",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "55819374",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Giuseppe D'Avanzo\"",
+        "last_name": "",
+        "username": "giuseppedavanzo",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "452145656",
+        "type": "user",
+        "role": "user",
+        "first_name": "djbdbat1",
+        "last_name": "Pa",
+        "username": "ack3rxxg",
+        "status": "userStatusOffline",
+        "was_online": "1669676431"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "682115495",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Amzn Rew Store- Assistenza\"",
+        "last_name": "",
+        "username": "AMZREWSTORE",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "756364917",
+        "type": "user",
+        "role": "user",
+        "first_name": "alessandro",
+        "last_name": "perina",
+        "username": "axselbuonasera10",
+        "status": "userStatusOffline",
+        "was_online": "1671173489"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "761679004",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessio",
+        "last_name": "",
+        "username": "Pekybratee",
+        "status": "userStatusOffline",
+        "was_online": "1670083711"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "799020659",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessandro",
+        "last_name": "",
+        "username": "Rabozzo85",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "884167529",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessandro",
+        "last_name": "Puglisi",
+        "username": "Alessandropugl",
+        "status": "userStatusOffline",
+        "was_online": "1672801343"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "925027841",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ale",
+        "last_name": "Preo",
+        "username": "Alessandropreosti",
+        "status": "userStatusOffline",
+        "was_online": "1661930734"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "977969081",
+        "type": "user",
+        "role": "user",
+        "first_name": "Rushi",
+        "last_name": "Rane",
+        "username": "Agrounder",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "134922505",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alucard",
+        "last_name": "",
+        "username": "Sucuni95",
+        "status": "userStatusOffline",
+        "was_online": "1672591814"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "255935495",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessio",
+        "last_name": "Rosi",
+        "username": "Alexios92",
+        "status": "userStatusOffline",
+        "was_online": "1672871475"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "402575906",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Alessandro \ud83c\udf2a\ufe0f\"",
+        "last_name": "",
+        "username": "sonoioale",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "430391043",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "",
+        "username": "Topgimmy",
+        "status": "userStatusOffline",
+        "was_online": "1672819672"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "578717733",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "",
+        "username": "ton7F",
+        "status": "userStatusOffline",
+        "was_online": "1672738525"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "611539886",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"{\ud83c\udd52\ud83c\udd61\ud83c\udd64\ud83c\udd54\ud83c\udd5d\ud83c\udd63}angeeh_\u1da0\u1db8\u1d9c\u1d4f\u1d67\u2092\u1d64 \u30c3\"",
+        "last_name": "",
+        "username": "back_to_reallity",
+        "status": "userStatusOffline",
+        "was_online": "1672841796"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "674483176",
+        "type": "user",
+        "role": "user",
+        "first_name": "Simone",
+        "last_name": "",
+        "username": "Ax_Simo47",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "869745641",
+        "type": "user",
+        "role": "user",
+        "first_name": "abena",
+        "last_name": "tidy\u2764",
+        "username": "tidy3",
+        "status": "userStatusOffline",
+        "was_online": "1671042473"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "931319057",
+        "type": "user",
+        "role": "user",
+        "first_name": "alessandro",
+        "last_name": "taurino",
+        "username": "alessandro2007",
+        "status": "userStatusOffline",
+        "was_online": "1672861454"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "947545104",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "Rizzo",
+        "username": "Rizzov",
+        "status": "userStatusOffline",
+        "was_online": "1672245461"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1420641198",
+        "type": "user",
+        "role": "user",
+        "first_name": "tatiana",
+        "last_name": "",
+        "username": "amaxonfree",
+        "status": "userStatusOffline",
+        "was_online": "1671864969"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1791840497",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonello",
+        "last_name": "",
+        "username": "Tinello68",
+        "status": "userStatusOffline",
+        "was_online": "1672869521"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "747601381",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Matteo nave\"",
+        "last_name": "",
+        "username": "vesuvio_ale",
+        "status": "userStatusOffline",
+        "was_online": "1672835590"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "988868326",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "\"Della vecchia\"",
+        "username": "ad3467n",
+        "status": "userStatusOffline",
+        "was_online": "1672777343"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "227361115",
+        "type": "user",
+        "role": "user",
+        "first_name": "abaido",
+        "last_name": "",
+        "username": "abaido",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "377316943",
+        "type": "user",
+        "role": "user",
+        "first_name": "aragon",
+        "last_name": "",
+        "username": "brentana",
+        "status": "userStatusOffline",
+        "was_online": "1672690309"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "443848394",
+        "type": "user",
+        "role": "user",
+        "first_name": "\ud83d\udc08",
+        "last_name": "",
+        "username": "adgkadgk",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "675989980",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ammad",
+        "last_name": "",
+        "username": "ammad786",
+        "status": "userStatusOffline",
+        "was_online": "1662050483"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "764221437",
+        "type": "user",
+        "role": "user",
+        "first_name": "Anon",
+        "last_name": "",
+        "username": "anon111rat",
+        "status": "userStatusOffline",
+        "was_online": "1672788952"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1071466272",
+        "type": "user",
+        "role": "user",
+        "first_name": "Adele",
+        "last_name": "",
+        "username": "Adeledb",
+        "status": "userStatusOffline",
+        "was_online": "1660404481"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1785314778",
+        "type": "user",
+        "role": "user",
+        "first_name": "gi",
+        "last_name": "a",
+        "username": "carta202",
+        "status": "userStatusOffline",
+        "was_online": "1662581350"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "600448987",
+        "type": "user",
+        "role": "user",
+        "first_name": "Angel",
+        "last_name": "\ud83d\udc7c\ud83c\udffb",
+        "username": "ellieang",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "698228272",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonson",
+        "last_name": "",
+        "username": "DARKDRAGON369",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "735907098",
+        "type": "user",
+        "role": "user",
+        "first_name": "Simone",
+        "last_name": "",
+        "username": "Azmoun8",
+        "status": "userStatusOffline",
+        "was_online": "1672844058"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "844550265",
+        "type": "user",
+        "role": "user",
+        "first_name": "Arianna",
+        "last_name": "Ricci",
+        "username": "MARE_FUORI_NEL_CUORE",
+        "status": "userStatusOffline",
+        "was_online": "1672852849"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1091798620",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Eddy Aranguren\"",
+        "last_name": "",
+        "username": "Aranza222",
+        "status": "userStatusOffline",
+        "was_online": "1672776894"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "142783263",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "Mari",
+        "username": "Fosrur",
+        "status": "userStatusLastWeek",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "335664725",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alex",
+        "last_name": "Gamer",
+        "username": "sul3rk1ng",
+        "status": "userStatusOffline",
+        "was_online": "1672868386"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "349414788",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessandro",
+        "last_name": "",
+        "username": "FendiNebbia",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "428340516",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessandro",
+        "last_name": "",
+        "username": "GencaPoP",
+        "status": "userStatusOffline",
+        "was_online": "1671134339"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "433736962",
+        "type": "user",
+        "role": "user",
+        "first_name": "GERARDO",
+        "last_name": "ALBERTI",
+        "username": "Gerardoalberti",
+        "status": "userStatusOffline",
+        "was_online": "1672667765"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "513743587",
+        "type": "user",
+        "role": "user",
+        "first_name": "Francesco",
+        "last_name": "Annunziata",
+        "username": "frannu84",
+        "status": "userStatusOffline",
+        "was_online": "1672841809"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "852785511",
+        "type": "user",
+        "role": "user",
+        "first_name": "AeA",
+        "last_name": "",
+        "username": "andbg1",
+        "status": "userStatusOffline",
+        "was_online": "1672857574"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "856665351",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Giuseppe Antonazzo\"",
+        "last_name": "",
+        "username": "giusanto7",
+        "status": "userStatusOffline",
+        "was_online": "1671828097"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "915840455",
+        "type": "user",
+        "role": "user",
+        "first_name": "anoymious",
+        "last_name": "",
+        "username": "ssshh45",
+        "status": "userStatusOffline",
+        "was_online": "1672244437"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1125776034",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"A\u0363\u0311\u0301\u0363\u0300\u0365\u0368\u0342\u0346\u0343\u0357\u0300\u035e\u0361\u0349\u0349\u0347\u034d\u0317\u033a\u0319\u035a\u032cA\u030b\u036a\u0314\u036c\u034c\u0302\u0306\u0350\u034c\u0346\u031a \u0313\u036e \u0368\u0307\u0302\u0322\u0335\u034d\u0339\u0331\u031f\u0330 \u0320\u0325\u0356\u0318\u0339A \u0351\u0301\u035b\u0311\u0303\u034c\"",
+        "last_name": "",
+        "username": "erpazzoimpazzito",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "211276100",
+        "type": "user",
+        "role": "user",
+        "first_name": "irsda75",
+        "last_name": "",
+        "username": "ArcheoRobby",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "788814245",
+        "type": "user",
+        "role": "user",
+        "first_name": "andrea99",
+        "last_name": "",
+        "username": "giapponese99",
+        "status": "userStatusOffline",
+        "was_online": "1672049438"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "848876994",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "",
+        "username": "iAntonioN",
+        "status": "userStatusOffline",
+        "was_online": "1672382636"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1635540475",
+        "type": "user",
+        "role": "user",
+        "first_name": "Greg",
+        "last_name": "",
+        "username": "Andromeda51",
+        "status": "userStatusOffline",
+        "was_online": "1663836166"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "321322728",
+        "type": "user",
+        "role": "user",
+        "first_name": "An",
+        "last_name": "",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1671305155"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "346668967",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Alex Long\"",
+        "last_name": "",
+        "username": "Alex_sharks",
+        "status": "userStatusOffline",
+        "was_online": "1672664675"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "455392021",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alfonso",
+        "last_name": "Kom",
+        "username": "Alfonsokom",
+        "status": "userStatusOffline",
+        "was_online": "1672753747"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "462440701",
+        "type": "user",
+        "role": "user",
+        "first_name": "Auro",
+        "last_name": "",
+        "username": "lyo998",
+        "status": "userStatusOffline",
+        "was_online": "1669761484"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "659040801",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "",
+        "username": "Mambo820",
+        "status": "userStatusOffline",
+        "was_online": "1661337040"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "663612190",
+        "type": "user",
+        "role": "user",
+        "first_name": "Lorenzo",
+        "last_name": "Pacini",
+        "username": "Ahdfe",
+        "status": "userStatusOffline",
+        "was_online": "1672857270"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "798728587",
+        "type": "user",
+        "role": "user",
+        "first_name": "Albi",
+        "last_name": "",
+        "username": "lil_Albi54",
+        "status": "userStatusOffline",
+        "was_online": "1672867200"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "848380936",
+        "type": "user",
+        "role": "user",
+        "first_name": "waido",
+        "last_name": "abla",
+        "username": "waidoabla",
+        "status": "userStatusOffline",
+        "was_online": "1672142840"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "855419964",
+        "type": "user",
+        "role": "user",
+        "first_name": "Stefano",
+        "last_name": "D\u2019Albis",
+        "username": "Liszto99",
+        "status": "userStatusOffline",
+        "was_online": "1665579343"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "191282764",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "",
+        "username": "ntoni86",
+        "status": "userStatusOffline",
+        "was_online": "1672767846"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "269984103",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alan",
+        "last_name": "",
+        "username": "napoalan",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "416710018",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"spaziALE \ud83c\udf1e\"",
+        "last_name": "",
+        "username": "AlessiaSunny",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "638373003",
+        "type": "user",
+        "role": "user",
+        "first_name": "Marco",
+        "last_name": "",
+        "username": "Addaway6",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "709901533",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "Cratos\u2122",
+        "username": "antgamer890",
+        "status": "userStatusOffline",
+        "was_online": "1672341335"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "730731446",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessandropo",
+        "last_name": "",
+        "username": "alessandrobismonte",
+        "status": "userStatusOffline",
+        "was_online": "1672376341"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "529778827",
+        "type": "user",
+        "role": "user",
+        "first_name": "David",
+        "last_name": "Palestini",
+        "username": "Azz9619",
+        "status": "userStatusOffline",
+        "was_online": "1672870523"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "885721948",
+        "type": "user",
+        "role": "user",
+        "first_name": "Amers_RedEyes_Tresh",
+        "last_name": "",
+        "username": "Amers_RedEyes_Tresh",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1252811979",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"AY NONT\"",
+        "last_name": "",
+        "username": "Manuzxio",
+        "status": "userStatusOffline",
+        "was_online": "1665009198"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "814321321",
+        "type": "user",
+        "role": "user",
+        "first_name": "Adriantackone",
+        "last_name": "",
+        "username": "adriantackone",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "143670098",
+        "type": "user",
+        "role": "user",
+        "first_name": "Vincenzo",
+        "last_name": "\"De Angelis\"",
+        "username": "Enzo83v",
+        "status": "userStatusOffline",
+        "was_online": "1672870403"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "363037431",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Sergiu Adrian\"",
+        "last_name": "Neag",
+        "username": "Superadrian91",
+        "status": "userStatusOffline",
+        "was_online": "1672830187"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "517813802",
+        "type": "user",
+        "role": "user",
+        "first_name": "Armando",
+        "last_name": "Narciso",
+        "username": "Armando0308",
+        "status": "userStatusOffline",
+        "was_online": "1672848112"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "585322044",
+        "type": "user",
+        "role": "user",
+        "first_name": "Aureliano",
+        "last_name": "",
+        "username": "Aureliano4567",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "676572338",
+        "type": "user",
+        "role": "user",
+        "first_name": "Nike",
+        "last_name": "Tempera",
+        "username": "Affiu",
+        "status": "userStatusOffline",
+        "was_online": "1671225479"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "163498041",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessio",
+        "last_name": "Palombi",
+        "username": "AlessioPalombi",
+        "status": "userStatusOffline",
+        "was_online": "1670093863"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "450684600",
+        "type": "user",
+        "role": "user",
+        "first_name": "Angelo",
+        "last_name": "Romano",
+        "username": "Angeloromy",
+        "status": "userStatusOffline",
+        "was_online": "1672161751"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "559383944",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessio",
+        "last_name": "Ro",
+        "username": "Alessioro",
+        "status": "userStatusOffline",
+        "was_online": "1672866241"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "710865558",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andres",
+        "last_name": "Padilla",
+        "username": "Andres_21_04_03",
+        "status": "userStatusOffline",
+        "was_online": "1672401561"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "798532250",
+        "type": "user",
+        "role": "user",
+        "first_name": "123",
+        "last_name": "4...",
+        "username": "aldogalanga1",
+        "status": "userStatusOffline",
+        "was_online": "1672332466"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "975775717",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Academy NXT\"",
+        "last_name": "",
+        "username": "Secondinomarano",
+        "status": "userStatusOffline",
+        "was_online": "1672711824"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "26532314",
+        "type": "user",
+        "role": "user",
+        "first_name": "ALESSANDRO",
+        "last_name": "ROTA",
+        "username": "alerota74",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "137632269",
+        "type": "user",
+        "role": "user",
+        "first_name": "A\u20e3n\u20e3d\u20e3r\u20e3e\u20e3w\u20e3",
+        "last_name": "S\u20e3c\u20e3h\u20e3w\u20e3a\u20e3n\u20e3t\u20e3z\u20e3",
+        "username": "AndrewSchwantz",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "588388771",
+        "type": "user",
+        "role": "user",
+        "first_name": "smile\ud83d\ude01",
+        "last_name": "",
+        "username": "A_0_6_9",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "652182333",
+        "type": "user",
+        "role": "user",
+        "first_name": "Robert",
+        "last_name": "Astancai",
+        "username": "ARYAX_ROB7",
+        "status": "userStatusOffline",
+        "was_online": "1668520774"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "732436575",
+        "type": "user",
+        "role": "user",
+        "first_name": "Artu.ro",
+        "last_name": "",
+        "username": "Barbiere97",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "736930574",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "",
+        "username": "Anto_Rottweiler",
+        "status": "userStatusOffline",
+        "was_online": "1672868080"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1273814792",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alberto",
+        "last_name": "Sartor",
+        "username": "Shadow45",
+        "status": "userStatusOffline",
+        "was_online": "1659384315"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "343175907",
+        "type": "user",
+        "role": "user",
+        "first_name": "\"Alessandro Tonti\"",
+        "last_name": "",
+        "username": "Tontyy4",
+        "status": "userStatusOffline",
+        "was_online": "1672862039"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "759159445",
+        "type": "user",
+        "role": "user",
+        "first_name": "ABSTRACT0",
+        "last_name": "",
+        "username": "Abstractconcept",
+        "status": "userStatusOffline",
+        "was_online": "1672660156"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "759388005",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "Papa",
+        "username": "andreapaparoni",
+        "status": "userStatusOffline",
+        "was_online": "1672815961"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "762689827",
+        "type": "user",
+        "role": "user",
+        "first_name": "Gaetano",
+        "last_name": "D'Amico",
+        "username": "Tatino04",
+        "status": "userStatusOffline",
+        "was_online": "1672316789"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "816030248",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "Raspatelli",
+        "username": "TYMONTANA",
+        "status": "userStatusOffline",
+        "was_online": "1672866747"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "202123441",
+        "type": "user",
+        "role": "user",
+        "first_name": "anthoni",
+        "last_name": "",
+        "username": "Anthoni1224",
+        "status": "userStatusOffline",
+        "was_online": "1672494832"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "220447645",
+        "type": "user",
+        "role": "user",
+        "first_name": "Anto\ud83c\udf2a",
+        "last_name": "",
+        "username": "Antonight",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "227149827",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessio",
+        "last_name": "",
+        "username": "ale284",
+        "status": "userStatusOffline",
+        "was_online": "1672866084"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "435056543",
+        "type": "user",
+        "role": "user",
+        "first_name": "Areco",
+        "last_name": "",
+        "username": "vinvi95",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "597273425",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "Dipr\u00e8",
+        "username": "Valtyng",
+        "status": "userStatusOffline",
+        "was_online": "1672691142"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "654098699",
+        "type": "user",
+        "role": "user",
+        "first_name": "Alessia",
+        "last_name": "",
+        "username": "Alessia1995",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "689070843",
+        "type": "user",
+        "role": "user",
+        "first_name": "Artigliere121",
+        "last_name": "",
+        "username": "Artiglierie",
+        "status": "userStatusOffline",
+        "was_online": "1671971101"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "715340727",
+        "type": "user",
+        "role": "user",
+        "first_name": "Nontelodico",
+        "last_name": "",
+        "username": "Axdre0",
+        "status": "userStatusLastWeek",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "840825101",
+        "type": "user",
+        "role": "user",
+        "first_name": "Vi",
+        "last_name": "",
+        "username": "avv1982",
+        "status": "userStatusOffline",
+        "was_online": "1672840714"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "962825158",
+        "type": "user",
+        "role": "user",
+        "first_name": "alfopap",
+        "last_name": "",
+        "username": "alfopap",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1057765327",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "",
+        "username": "Weyyyi",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "299557857",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ale",
+        "last_name": "",
+        "username": "Alegiachi",
+        "status": "userStatusOffline",
+        "was_online": "1671719590"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "370585809",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ale_Ris",
+        "last_name": "",
+        "username": "",
+        "status": "userStatusOffline",
+        "was_online": "1672691143"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "732552533",
+        "type": "user",
+        "role": "user",
+        "first_name": "Francesco_",
+        "last_name": "",
+        "username": "Ajeje_Br4zorf",
+        "status": "userStatusOffline",
+        "was_online": "1669833154"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "931429681",
+        "type": "user",
+        "role": "user",
+        "first_name": "adrian",
+        "last_name": "carabajal",
+        "username": "adriancarabajal",
+        "status": "",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "967830734",
+        "type": "user",
+        "role": "user",
+        "first_name": "Ale",
+        "last_name": "",
+        "username": "Alee1717",
+        "status": "userStatusOffline",
+        "was_online": "1672780772"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "1031448489",
+        "type": "user",
+        "role": "user",
+        "first_name": "._.",
+        "last_name": "",
+        "username": "Alessandro90900",
+        "status": "userStatusOffline",
+        "was_online": "1672149859"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "185347017",
+        "type": "user",
+        "role": "user",
+        "first_name": "andolini",
+        "last_name": "",
+        "username": "eandolinii",
+        "status": "userStatusOffline",
+        "was_online": "1672714889"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "193239654",
+        "type": "user",
+        "role": "user",
+        "first_name": "Dario",
+        "last_name": "A",
+        "username": "darioaz",
+        "status": "userStatusOffline",
+        "was_online": "1672829973"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "316897874",
+        "type": "user",
+        "role": "user",
+        "first_name": "Dav",
+        "last_name": "",
+        "username": "az123455667",
+        "status": "userStatusLastMonth",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "541535364",
+        "type": "user",
+        "role": "user",
+        "first_name": "PACHUSUS",
+        "last_name": "",
+        "username": "DYBALA_MON_AMOUR",
+        "status": "userStatusOffline",
+        "was_online": "1672838370"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "603865489",
+        "type": "user",
+        "role": "user",
+        "first_name": "Andrea",
+        "last_name": "",
+        "username": "cast883",
+        "status": "userStatusOffline",
+        "was_online": "1672865309"
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "667211142",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antimo",
+        "last_name": "",
+        "username": "antimo99",
+        "status": "userStatusRecently",
+        "was_online": ""
+    },
+    {
+        "account": "+14086045337",
+        "user_id": "918051471",
+        "type": "user",
+        "role": "user",
+        "first_name": "Antonio",
+        "last_name": "Cal\u00ed",
+        "username": "ACbasketcase",
+        "status": "userStatusOffline",
+        "was_online": "1672611159"
+    },
+    {
+        "account": "\t\t      <\/div>"
+    },
+    {
+        "account": "\t\t    <\/div>"
+    },
+    {
+        "account": "\t\t  <\/div>"
+    },
+    {
+        "account": "        <\/div>"
+    },
+    {
+        "account": "        <!-- \/.row -->"
+    },
+    {
+        "account": "      <\/div><!-- \/.container-fluid -->"
+    },
+    {
+        "account": "    <\/div>"
+    },
+    {
+        "account": "    <!-- \/.content -->"
+    },
+    {
+        "account": "  <\/div>"
+    },
+    {
+        "account": "  <!-- \/.content-wrapper -->"
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "  <!-- Control Sidebar -->"
+    },
+    {
+        "account": "  <aside class=\"control-sidebar control-sidebar-dark\">"
+    },
+    {
+        "account": "    <!-- Control sidebar content goes here -->"
+    },
+    {
+        "account": "  <\/aside>"
+    },
+    {
+        "account": "  <!-- \/.control-sidebar -->"
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "  <!-- Main Footer -->"
+    },
+    {
+        "account": "  <footer class=\"main-footer\">"
+    },
+    {
+        "account": "    <!-- To the right -->"
+    },
+    {
+        "account": "    <div class=\"float-right d-none d-sm-inline\">"
+    },
+    {
+        "account": "\t\tPer qualsiasi esigenza non esitare a contattarmi <i class=\"fa fa-heart\"><\/i>"
+    },
+    {
+        "account": "    <\/div>"
+    },
+    {
+        "account": "    <!-- Default to the left -->"
+    },
+    {
+        "account": "    <strong>Copyright &copy",
+        "user_id": " <a href=\"https:\/\/t.me\/Giuseppe\" target=\"_blank\">@Giuseppe<\/a>.<\/strong> All rights reserved."
+    },
+    {
+        "account": "  <\/footer>"
+    },
+    {
+        "account": "<\/div>"
+    },
+    {
+        "account": "<!-- .\/wrapper -->"
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "<!-- jQuery -->"
+    },
+    {
+        "account": "<script src=\"..\/plugins\/jquery\/jquery.min.js\"><\/script>"
+    },
+    {
+        "account": "<!-- Bootstrap 4 -->"
+    },
+    {
+        "account": "<script src=\"..\/plugins\/bootstrap\/js\/bootstrap.bundle.min.js\"><\/script>"
+    },
+    {
+        "account": "<!-- AdminLTE App -->"
+    },
+    {
+        "account": "<script src=\"..\/dist\/js\/adminlte.min.js\"><\/script>"
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "<script>"
+    },
+    {
+        "account": "let nome_pagina = $(\".sidebar > nav > ul > li > a[href='membri_download_excel.php'] > p\").html()",
+        "user_id": ""
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "$(\"title\").html(\"Adder | \" + nome_pagina)",
+        "user_id": ""
+    },
+    {
+        "account": "$(\"h1.m-0\").html(nome_pagina)",
+        "user_id": ""
+    },
+    {
+        "account": "$(\".breadcrumb-item.active\").html(nome_pagina)",
+        "user_id": ""
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "if(nome_pagina===\"Home\") {"
+    },
+    {
+        "account": "  $(\".breadcrumb-item\")[1].remove()",
+        "user_id": ""
+    },
+    {
+        "account": "  $(\".breadcrumb-item\")[0].remove()",
+        "user_id": ""
+    },
+    {
+        "account": "}"
+    },
+    {
+        "account": "else"
+    },
+    {
+        "account": "  $(\".breadcrumb-item\")[1].innerHTML = $(\".sidebar > nav > ul > li > a[href='membri_download_excel.php'] > p\").parent().parent().prevAll(\".nav-header\").html()"
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "<\/script>"
+    },
+    {
+        "account": ""
+    },
+    {
+        "account": "<\/body>"
+    },
+    {
+        "account": "<\/html>"
+    }
+]

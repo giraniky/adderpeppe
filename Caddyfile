@@ -1,0 +1,8 @@
+http://localhost:80 {
+  root * /app
+  php_fastcgi php-fpm:9000
+  file_server
+  log {
+    format console
+  }
+}

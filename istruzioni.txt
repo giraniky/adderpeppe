@@ -1,0 +1,38 @@
+Installazione:
+
+1) Installa docker
+
+curl -fsSL https://get.docker.com | sudo sh
+
+2) (Opzionale) esegui questi comandi
+
+echo 262144 | sudo tee /proc/sys/vm/max_map_count
+echo vm.max_map_count=262144 | sudo tee /etc/sysctl.d/40-madelineproto.conf
+sudo mkdir -p /etc/security/limits.d/
+echo '* soft nofile 1048576' | sudo tee -a /etc/security/limits.d/40-madelineproto.conf
+echo '* hard nofile 1048576' | sudo tee -a /etc/security/limits.d/40-madelineproto.conf
+
+3) Prima installazione, esegui questo comando
+
+docker compose build
+
+Utilizzo:
+
+1) Esegui questo comando per avviare il servizio
+
+docker compose up -d
+
+2) Esegui questo comando per fermare il servizio
+
+docker compose down
+
+3) Esegui questo comando per visualizzare i log
+
+docker compose logs -f
+
+Note:
+- ogni volta che effettui una modifica al codice devi eseguire il comando 2) e poi 1)
+- per accedere al pannello adesso apri il browser e vai all'indirizzo http://ipdelvps:8888
+- se vuoi cambiare la porta modifica il file .env
+- se vuoi evitare di scrivere la porta ogni volta usa come porta 80
+- per cambiare proxy sostituisci nel codice tutte le occorrenze del proxy che stai usando attualmente con un altro che si trova nella cartella proxy
